@@ -4,11 +4,13 @@
 
 > Stručný úvod do VHDL od úplného začátku.
 
-Tato práce uvede čtenáře do problematiky VHDL jazyka **od úplného začátku**, očekávají se pouze základní znalosti z oblasti informatiky. Práce obsahuje **mnoho názorných obrázků a ukázek VHDL kódu**. Čtenář má také možnost si procvičit získané znalosti na konci každé kapitoly prostřednictvím zadaných úloh, k nimž je dodáno i jejich referenční řešení.
+Tato práce uvede čtenáře do problematiky VHDL jazyka **od úplného začátku**, očekávají se pouze základní znalosti z oblasti informatiky. Obsahuje **mnoho názorných obrázků a ukázek VHDL kódu**. Čtenář má také možnost si procvičit získané znalosti na konci každé kapitoly prostřednictvím zadaných úloh, k nimž je dodáno i jejich referenční řešení.
 
 **Práce je psána v češtině.** Přesto je však angličtina použita v případech nutných k zajištění správné integrace tohoto repozitáře, ve zdrojových kódech (s výjimkou komentářů) a v textech, které s nimi úzce souvisí.
 
-Text samotné práce je k dostání v souboru [*uvod-do-vhdl.pdf*](uvod-do-vhdl.pdf).
+Samotný text je k dostání v souboru [*uvod-do-vhdl.pdf*](uvod-do-vhdl.pdf). Pro funkční odkazy je doporučeno soubor stáhnout a otevřít lokálně.
+
+> Vytvořeno v roce 2017.
 
 ## Přispívání
 
